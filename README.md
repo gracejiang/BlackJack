@@ -1,7 +1,7 @@
 
 # Blackjack
 
-**Blackjack** is a popular casino game, where the player tries to get a higher sum in his hand than the dealer. [Read the rules here](http://www.hitorstand.net/strategy.php)!
+**Blackjack** is a popular casino game, where the player tries to get a higher sum in his hand than the dealer. [Read the rules here](http://www.hitorstand.net/strategy.php)! Made for Tech LA.
 
 ----------
 
